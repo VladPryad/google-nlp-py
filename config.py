@@ -1,0 +1,1 @@
+GOOGLE_APPLICATION_CREDENTIALS = "C:\\Папочка\\Programming\\Projects\\Python\\ОИАД\\Лб3\\vireta-063beb5d5448.json"
